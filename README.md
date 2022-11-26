@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: 混吃等死
+- ⚡ Fun fact: err
 
 - ⚡ Gitee: [codemilk](https://gitee.com/codemilk)
 
